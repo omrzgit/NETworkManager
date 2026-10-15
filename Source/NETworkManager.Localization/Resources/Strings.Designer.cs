@@ -4932,6 +4932,15 @@ namespace NETworkManager.Localization.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Show all rules.
+        /// </summary>
+        public static string ShowAllRules {
+            get {
+                return ResourceManager.GetString("ShowAllRules", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to First usable IP address.
         /// </summary>
         public static string FirstUsableIPAddress {
